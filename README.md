@@ -1,4 +1,4 @@
-- 👋 Hey guys! I’m @Camy
+- 👋 Hey guys! I’m @Cami
 - 👀 I’m interested s computer science student
 - 🌱 I’m currently learning JAVA
 - 💞️ Check out my projects and let’s connect!
