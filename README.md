@@ -1,5 +1,5 @@
 - 👋 Hey guys! I’m @Cami
-- 👀 I’m interested s computer science student
+- 👀 I’m  a computer science student
 - 🌱 I’m currently learning JAVA
 - 💞️ Check out my projects and let’s connect!
 
